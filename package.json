@@ -1,0 +1,24 @@
+{
+  "name": "css-sheet-injector",
+  "version": "1.0.0",
+  "description": "has a function to inject a new style sheet in the top of the head. has a function to add css rules to a sheet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yallups/css-sheet-injector.git"
+  },
+  "keywords": [
+    "css",
+    "injection",
+    "style"
+  ],
+  "author": "Shawn <mryallups@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yallups/css-sheet-injector/issues"
+  },
+  "homepage": "https://github.com/yallups/css-sheet-injector"
+}
